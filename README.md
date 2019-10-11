@@ -1,2 +1,4 @@
 # hello-world
-First repository
+Hi my name is Anthony
+
+I am studing BIS in UCC
